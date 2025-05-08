@@ -1,6 +1,4 @@
 # Linux-IPC--Pipes
-# Linux-IPC-Pipes
-
 # Name: Kishorekumar S
 # Regno: 212224040162
 
